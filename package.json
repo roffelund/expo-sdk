@@ -58,6 +58,7 @@
     "react-native-branch": "2.0.0-beta.3",
     "react-native-gesture-handler": "1.0.0-alpha.41",
     "react-native-maps": "0.21.0",
+    "react-native-store-review": "0.1.5",
     "react-native-svg": "6.2.2",
     "uuid-js": "^0.7.5",
     "websql": "https://github.com/expo/node-websql/archive/18.0.0.tar.gz"
